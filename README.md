@@ -1,5 +1,7 @@
 # CryptoLab — Cryptography Playground
 
+**Live demo: [cryptolab-six.vercel.app](https://cryptolab-six.vercel.app)**
+
 An interactive playground for learning cryptography, from classic pen-and-paper ciphers to real browser-native modern crypto. Everything runs locally in your browser; no keys or plaintext ever leave the page.
 
 ![Tech](https://img.shields.io/badge/React-19-34d399) ![Tech](https://img.shields.io/badge/Vite-purple) ![Tech](https://img.shields.io/badge/Web%20Crypto%20API-black)
